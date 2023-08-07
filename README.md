@@ -1,3 +1,3 @@
 # template
 
-Created a static page in this time frame.
+Created a static page in a given time frame.
